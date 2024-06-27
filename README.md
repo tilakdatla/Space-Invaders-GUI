@@ -11,7 +11,7 @@ Clone the repository to your local machine using:
 
 
 ### Copy code
-git clone https://github.com/your-username/space-invaders.git
+git clone https://github.com/tilakdatla/Space-Invaders-GUI/
 Navigate to the project directory:
 cd space-invaders
 
